@@ -4,7 +4,7 @@ import CoreConcept from './components/CoreConcept.jsx';
 import TabButton from './components/TabButton.jsx';
 import { useState } from 'react';
 import { EXAMPLES } from './data.js';
-//BU BİR DENEMEDİR1
+//BU BİR DENEMEDİR
 /*
 function CoreConcept(props) {
   return (
