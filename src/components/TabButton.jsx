@@ -19,7 +19,7 @@ function TabButton({ children, onSelect, isSelected }){
 }
 
 /*
-//You can use object destructuring instead of props
+You can use object destructuring instead of props
 
    function TabButton({children}) {
       return <li><button>{children}</button></li>
