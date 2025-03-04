@@ -17,6 +17,7 @@ function CoreConcept(props) {
 //instead of props use object destructuring
 
 function App() {
+  //Auto branch work
   return (
     <div>
       <Header />
